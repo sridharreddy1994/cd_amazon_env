@@ -1,0 +1,22 @@
+[
+  {
+    "ParameterKey": "ImageId",
+    "ParameterValue": "ami-f5d7f195"
+  }, 
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  },
+   {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "nexus"
+   },
+  {
+     "ParameterKey": "SubnetId",
+    "ParameterValue": "subnet-51a8f836"
+  },
+  {
+    "ParameterKey": "InstanceSecurityGroup",
+    "ParameterValue": "sg-d18be9aa"
+  }
+]
